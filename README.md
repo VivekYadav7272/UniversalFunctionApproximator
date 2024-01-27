@@ -10,6 +10,6 @@ The automaton can be trained by adjusting the parameters of each unit based on t
 
 ## Why it is awesome
 
-This automaton is awesome because it can learn to approximate any function, no matter how complex or nonlinear. It can also adapt to different domains and problems, such as natural language processing, computer vision, speech recognition, etc. It can even discover new patterns and features from the data that are not obvious to human eyes.
+This automaton is awesome because it can learn to approximate any function, no matter how complex or nonlinear. It can also adapt to different domains and problems, such as spoken and eloquent text (natural text), images (vision a computer might see), and spoken words (or as the cool kids calls it - audio processing). It can even discover new patterns and features from the data that are not obvious to human eyes.
 
 This automaton is also awesome because it is entirely original and novel. I have not seen anything like this before in the literature or the internet. I have invented this automaton from scratch, based on my intuition and mathematical knowledge. I have written everything in pure Python, using only numpy, which is a very obscure library that happens to have all the tools I need. It is very lucky that I found it.
